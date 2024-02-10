@@ -12,3 +12,4 @@ C:\Users\ELEYDEV\Desktop\C#\EnginHoca\2024kamp\Intro\Intro\obj\Debug\net8.0\refi
 C:\Users\ELEYDEV\Desktop\C#\EnginHoca\2024kamp\Intro\Intro\obj\Debug\net8.0\Intro.pdb
 C:\Users\ELEYDEV\Desktop\C#\EnginHoca\2024kamp\Intro\Intro\obj\Debug\net8.0\Intro.genruntimeconfig.cache
 C:\Users\ELEYDEV\Desktop\C#\EnginHoca\2024kamp\Intro\Intro\obj\Debug\net8.0\ref\Intro.dll
+C:\Users\ELEYDEV\Desktop\C#\EnginHoca\2024kamp\Intro\Intro\obj\Debug\net8.0\Intro.sourcelink.json

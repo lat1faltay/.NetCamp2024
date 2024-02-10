@@ -1,0 +1,6 @@
+C:\Users\ELEYDEV\Desktop\C#\EnginHoca\2024kamp\Homework\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\ELEYDEV\Desktop\C#\EnginHoca\2024kamp\Homework\MaskeTakip\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELEYDEV\Desktop\C#\EnginHoca\2024kamp\Homework\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\ELEYDEV\Desktop\C#\EnginHoca\2024kamp\Homework\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\ELEYDEV\Desktop\C#\EnginHoca\2024kamp\Homework\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\ELEYDEV\Desktop\C#\EnginHoca\2024kamp\Homework\MaskeTakip\Business\obj\Debug\net8.0\Business.sourcelink.json
